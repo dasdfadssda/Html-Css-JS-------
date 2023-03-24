@@ -1,0 +1,27 @@
+            "color: red; /* 글자 색상을 빨간색으로 지정합니다. */
+            font-size: 16px; /* 글자 크기를 16px로 지정합니다. */
+            font-weight: bold; /* 글자를 굵게 표시합니다. */
+            background-color: yellow; /* 배경색을 노란색으로 지정합니다. */
+            border: 1px solid black; /* 테두리를 1px 두께의 검은색 실선으로 지정합니다. */
+            padding: 10px; /* 콘텐츠와 테두리 사이의 간격을 10px로 지정합니다. */
+            margin: 10px; /* 요소의 바깥쪽 여백을 10px로 지정합니다. */
+            text-align: center; /* 텍스트를 가운데 정렬합니다. */
+            line-height: 1.5; /* 라인 높이를 1.5로 지정합니다. */
+            text-decoration: underline; /* 밑줄을 추가합니다. */
+            text-transform: uppercase; /* 텍스트를 대문자로 변환합니다. */
+            letter-spacing: 2px; /* 문자 사이의 간격을 2px로 지정합니다. */
+            font-style: italic; /* 이탤릭체로 표시합니다. */
+            box-shadow: 5px 5px 5px grey; /* 그림자 효과를 추가합니다. */
+            cursor: pointer; /* 마우스 커서를 손가락 모양으로 변경합니다. */
+            display: flex; /* flexbox 레이아웃을 사용합니다. */
+            flex-direction: column; /* 요소를 세로 방향으로 정렬합니다. */
+            justify-content: center; /* 요소를 수직 방향으로 가운데 정렬합니다. */
+            align-items: center; /* 요소를 수평 방향으로 가운데 정렬합니다. */
+            flex-wrap: wrap; /* flexbox 요소가 화면을 벗어날 경우 줄바꿈합니다. */
+            flex-basis: 50%; /* flexbox 요소의 초기 크기를 50%로 지정합니다. */
+            flex-grow: 1; /* flexbox 요소가 남는 공간을 모두 차지하도록 설정합니다. */
+            box-sizing: border-box; /* 테두리와 패딩을 포함한 크기를 지정합니다. */
+            overflow: hidden; /* 요소 밖의 내용을 감춥니다. */
+            transition: all 0.3s ease; /* 전환 효과를 추가합니다. */
+            animation: myanimation 2s infinite; /* 애니메이션 효과를 추가합니다. */
+            filter: blur(5px); /* 요소에 블러 효과를 추가합니다
